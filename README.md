@@ -11,6 +11,7 @@ The projects uses the following technologies:
 - Lakeflow Jobs
 - Metastores
 - External Tables and Managed Tables
+
 And more...
 
 
