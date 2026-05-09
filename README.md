@@ -1,7 +1,17 @@
 # Building End to End ETL Project with Medallion Architecture using Azure Databricks
 
 ## Project Details
-In this project, I demonstrated how to build modern data warehouse on azure databricks using medallion architecture. The data lives in azure data lake, and the goal is to ingest the data into bronze tables in databricks, transform it in the silver layer, and design data models using star schema in the gold layer for downstream analytics. 
+In this project, I demonstrated how to build modern data warehouse on azure databricks using medallion architecture. The data lives in azure data lake, and the goal is to ingest the data into bronze tables in databricks, transform it in the silver layer, and design data models using star schema in the gold layer for downstream analytics.
+
+This projects uses the following technologies:
+- Unity catalog
+- External Storage location
+- Autoloader
+- Spark Declarative Pipelines
+- Lakeflow Jobs
+- Metastores
+- External Tables and Managed Tables
+And more...
 
 
 
